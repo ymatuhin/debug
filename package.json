@@ -1,0 +1,15 @@
+{
+  "name": "@ymatuhin/debug",
+  "version": "0.0.11",
+  "description": "",
+  "main": "index.js",
+  "author": "ymatuhin",
+  "license": "ISC",
+  "typings": "debug.d.ts",
+  "devDependencies": {
+    "svelte": "^3.35.0"
+  },
+  "dependencies": {
+    "debug": "^4.3.1"
+  }
+}
